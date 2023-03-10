@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "node-telegram-bot-api": "^0.61.0"
+  },
+  "scripts": {
+    "start": "node tgbot node parser"
+  }
+}
